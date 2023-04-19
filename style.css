@@ -1,0 +1,36 @@
+.container {
+    max-width: 960px
+}
+
+.finetuned-diffusion-div div {
+    align-items: center;
+    gap: .8rem;
+    font-size: 1.75rem
+}
+
+.finetuned-diffusion-div div h1 {
+    font-weight: 900;
+    margin-bottom: 7px
+}
+
+.finetuned-diffusion-div div p {
+    font-size: 50%
+}
+
+.finetuned-diffusion-div p {
+    margin-bottom: 10px;
+    font-size: 94%
+}
+
+a {
+    text-decoration: underline
+}
+
+.tabs {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+#gallery {
+    min-height: 20rem
+}

@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch
+git+https://github.com/huggingface/diffusers.git
+git+https://github.com/huggingface/transformers
+scipy
+ftfy
+psutil
+accelerate
+xformers
